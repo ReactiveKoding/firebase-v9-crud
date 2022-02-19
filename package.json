@@ -8,16 +8,33 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "@reduxjs/toolkit": "^1.7.2",
+    "axios": "^0.26.0",
     "expo": "~44.0.0",
+    "expo-linear-gradient": "~11.0.1",
     "expo-status-bar": "~1.2.0",
     "firebase": "^9.6.4",
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-popup-menu": "^0.15.12",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.10.2",
+    "react-native-sound": "^0.11.2",
+    "react-native-sound-player": "^0.11.3",
+    "react-native-vector-icons": "^9.0.0",
+    "react-native-web": "0.17.1",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "react-xml-parser": "^1.1.8"
   },
   "private": true
 }
